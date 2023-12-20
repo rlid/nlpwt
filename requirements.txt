@@ -1,5 +1,10 @@
+accelerate
+datasets
+matplotlib
 pandas
 sacremoses
+scikit-learn
 sentencepiece
 torch
 transformers
+umap-learn
