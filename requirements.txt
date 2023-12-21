@@ -1,4 +1,5 @@
 accelerate
+bertviz
 datasets
 matplotlib
 pandas
