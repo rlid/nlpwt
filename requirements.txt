@@ -6,6 +6,7 @@ pandas
 sacremoses
 scikit-learn
 sentencepiece
+seqeval
 torch
 transformers
 umap-learn
